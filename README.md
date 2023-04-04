@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @klauskira07
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning at ALx Africa Software Engineer Program. And in appendix VueJs, Flutter and Laravel Php. 
+- 👀 I’m a freelancer interested in coding.
+- 🌱 I’m currently learning at ALx Africa Software Engineer Program. And in appendix Flutter with Firebase and Laravel Php. 
 - 💞️ I’m looking to collaborate on any innovative project.
 - 📫 How to reach me : +25771262162, +25768366895.
 
