@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @klauskira07
-- 👀 I’m a freelancer interested in coding.
-- 🌱 I’m currently learning at ALx Africa Software Engineer Program. And in appendix Flutter with Firebase and Laravel Php. 
+- 👀 I’m a freelancer interested in coding. Specialized in mobile development ,BackEnd in Laravel, and Secyuring Datas of softwares.
+- 🌱 Actually working in Vortex Ltd. Company based in Burundi. And member of the Burundi Cyber Security Community. 
 - 💞️ I’m looking to collaborate on any innovative project.
-- 📫 How to reach me : +25771262162, +25768366895.
+- 📫 How to reach me : +25768366895.
 
 <!---
 klauskira07/klauskira07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
