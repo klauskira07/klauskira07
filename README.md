@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @klauskira07
-- 👀 I’m a freelancer interested in coding. Specialized in mobile development ,BackEnd in Laravel, and Secyuring Datas of softwares.
+- 👀 I’m a freelancer interested in coding. Specialized in mobile development ,BackEnd in Laravel, and Securing Datas of softwares.
 - 🌱 Actually working in Vortex Ltd. Company based in Burundi. And member of the Burundi Cyber Security Community. 
 - 💞️ I’m looking to collaborate on any innovative project.
 - 📫 How to reach me : +25768366895.
