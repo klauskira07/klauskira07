@@ -14,9 +14,7 @@ Alongside my work, I offer courses and training in web and mobile development, e
 🛠️ Main Technologies:
 
 ✔ Django Python – Backend, automation, data
-
 ✔ Flutter – Mobile development
-
 ✔ Tailwind CSS – Modern and responsive UI
 
 🌐 Other Skills:
