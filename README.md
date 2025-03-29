@@ -12,8 +12,11 @@ Alongside my work, I offer courses and training in web and mobile development, e
 🔐 I’m continuously expanding my knowledge in cybersecurity and applying security strategies to protect applications and data.
 
 🛠️ Main Technologies:
+
 ✔ Django Python – Backend, automation, data
+
 ✔ Flutter – Mobile development
+
 ✔ Tailwind CSS – Modern and responsive UI
 
 🌐 Other Skills:
