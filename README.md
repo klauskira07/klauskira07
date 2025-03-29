@@ -4,9 +4,9 @@
 
 🚀 Passionate about software development, I build modern, secure, and high-performance solutions with Django Python, Flutter, and Tailwind CSS.
 
-🏢 Founder of Vortex Ltd. A software house crafting custom software, mobile apps, and web solutions with a focus on performance, security, and modern design.
+🏢 Founder of Vortex Ltd. : A software house crafting custom software, mobile apps, and web solutions with a focus on performance, security, and modern design.
 
-📚 Web & Mobile Development Instructor
+📚 Web & Mobile Development Instructor :
 Alongside my work, I offer courses and training in web and mobile development, emphasizing best practices and performance optimization.
 
 🔐 I’m continuously expanding my knowledge in cybersecurity and applying security strategies to protect applications and data.
