@@ -2,7 +2,7 @@
 
 💻 Full Stack Developer | Web & Mobile Development Instructor | Cybersecurity Enthusiast
 
-🚀 Passionate about software development, I build modern, secure, and high-performance solutions with Python, Flutter, and Tailwind CSS.
+🚀 Passionate about software development, I build modern, secure, and high-performance solutions with Django Python, Flutter, and Tailwind CSS.
 
 🏢 Founder of Vortex Ltd. A software house crafting custom software, mobile apps, and web solutions with a focus on performance, security, and modern design.
 
